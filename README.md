@@ -32,13 +32,13 @@ Of course, they can be used for much more so do look around the wide web for pro
 
 First we must take a look a providers that offer these services: 
 
-- Azure
+- Linode
 - AWS (Amazon Web Services)
 - Digital Ocean
 
 ### VPS Distinctions
 
-- Azure
+- Linode
   - Pros:
     -
   - Cons: 
@@ -55,3 +55,5 @@ First we must take a look a providers that offer these services:
     -
   - Cons: 
     -
+
+## Choosing a web server
