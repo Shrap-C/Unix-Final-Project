@@ -46,12 +46,12 @@ First we must take a look a providers that offer these services:
     
 - AWS
   - Pros:
-     -
+    -
   - Cons: 
-     -
+    -
 
 - Digital Ocean
   - Pros:
-     -
+    -
   - Cons: 
-     -
+    -
