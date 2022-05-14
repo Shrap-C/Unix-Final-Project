@@ -40,20 +40,72 @@ First we must take a look a providers that offer these services:
 
 - Linode
   - Pros:
-    -
+    - Large choice of datacenters
+    - User-friendly design and interface
+    - Feature-rich control panel
   - Cons: 
-    -
+    - No official support (i.e: live chat, phone support)
+    - No standalone MySQL and FTP service
     
 - AWS
   - Pros:
-    -
+    - Comes with its own firewall
+    - Industry standard
+    - Many other services come packaged
+    - Built to scale
   - Cons: 
-    -
+    - Not truly user friendly
+    - Hard to grasp vs other services (i.e Digital Ocean)
+    - Quite pricey
 
 - Digital Ocean
   - Pros:
-    -
+    - Solid security features
+    - Free services (i.e IPv6, User data management)
+    - Affordability
   - Cons: 
-    -
+    - Not as built to scale as other services (i.e AWS)
+    - A tad bit overwhelming in features for small scale projects 
 
-## Choosing a web server
+## Choosing a distribution 
+ - Ubuntu:
+    - Pros:
+      - Free OS & open source
+      - User friendly for all types of users
+      - Ever growing and helpful community which makes it easy to fix problems encountered
+    - Cons:
+      - Possible compatibility issues
+ - Debian
+    - Pros
+      - Stable
+      - Free OS & open source
+      - Solid security
+    - Cons
+      - Not as user friendly as other distributions (i.e Ubuntu)
+      - Constant updates
+  - CentOS
+    - Pros:
+      - User friendly
+      - Reliable and scalable
+      - Stable (Updates not often needed)
+    - Cons:
+      - Lack of a pleasing front-end experience
+      - Extremely stable
+
+## Application for web hosting
+- HTML
+- CSS
+- Javascript
+- React App
+- TypeScript
+- Django
+- Express
+- NodeJS
+
+## Setup and VPS installation 
+
+[Link](INSTALL.md) for the installation guide.
+
+## Repository
+
+A link to our [repository](https://github.com/Shrap-C/Unix-Final-Project).
